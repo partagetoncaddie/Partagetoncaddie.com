@@ -1,0 +1,17 @@
+
+#caddie-banner{
+	background-image: url("caddie2.jpg");
+	height: 600px;
+}
+#carouselExampleIndicators {
+	width: 40vw;
+	margin:auto;
+}
+
+.fixNavigation{
+ z-index: 9999;
+ position: fixed;
+ top: 0;
+ /* Mise en forme */
+ width: 100%; /* <-- Largeur de votre site */
+ }
